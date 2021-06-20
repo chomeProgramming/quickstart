@@ -15,4 +15,4 @@ Simply run `npx quickstart` and choose a template and get going!
 Happy Hacking!!!
 
 
-[Github Repo](https://github.com/chomeProgramming/quickstart)
+[Github Repo](https://github.com/chomeProgramming/quickstart) [Npm Package](https://www.npmjs.com/package/@robinnlmn/quickstart)
