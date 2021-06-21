@@ -1,10 +1,10 @@
 {
   "name": "@robinnlmn/quickstart",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Easily quickstart projects. Currently 2 templates are availible",
   "main": "src/index.js",
   "bin": {
-    "@robinnlmn/create-api": "bin/cli",
+    "@robinnlmn/quickstart": "bin/cli",
     "quickstart": "bin/cli"
   },
   "publishConfig": {
