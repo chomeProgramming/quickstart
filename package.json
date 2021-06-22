@@ -1,6 +1,6 @@
 {
   "name": "@robinnlmn/quickstart",
-  "version": "1.0.6",
+  "version": "2.0.0",
   "description": "Easily quickstart projects. Currently 2 templates are availible",
   "main": "src/index.js",
   "bin": {
@@ -17,6 +17,7 @@
     "cli",
     "api",
     "js",
+    "javascript",
     "quickstart"
   ],
   "author": "chome",

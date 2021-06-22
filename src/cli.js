@@ -57,7 +57,7 @@ async function promptForMissingOptions(options) {
     questions.push({
       type: 'confirm',
       name: 'runInstall',
-      message: 'Do you want to install dependencies automatically?',
+      message: 'Do you want to install dependencies?',
       default: false,
     });
   }
